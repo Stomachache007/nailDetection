@@ -1,0 +1,55 @@
+﻿Build started 2/14/2017 5:34:30 PM.
+     1>Project "E:\nail_detection\nail_detection20170214\nailDetection\nailDetection\nailDetection.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IE:\opencv2_4_11\my_build_vs2013_x64\install\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt "..\..\..\nail_detection20161227\VS2013 Version\HandDetection\handGesture.cpp" "..\..\..\nail_detection20161227\VS2013 Version\HandDetection\main.cpp" "..\..\..\nail_detection20161227\VS2013 Version\HandDetection\myImage.cpp" "..\..\..\nail_detection20161227\VS2013 Version\HandDetection\roi.cpp"
+         handGesture.cpp
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\handGesture.cpp(65): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\handGesture.cpp(66): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\handGesture.cpp(75): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\handGesture.cpp(100): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\handGesture.cpp(143): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\handGesture.cpp(191): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\handGesture.cpp(193): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\handGesture.cpp(198): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\handGesture.cpp(217): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\handGesture.cpp(226): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\handGesture.cpp(227): warning C4101: 'faridx' : unreferenced local variable
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\handGesture.cpp(225): warning C4101: 'avgY' : unreferenced local variable
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\handGesture.cpp(225): warning C4101: 'avgX' : unreferenced local variable
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\handGesture.cpp(358): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\handGesture.cpp(405): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\handGesture.cpp(410): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\handGesture.cpp(461): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 ..\..\..\nail_detection20161227\VS2013 Version\HandDetection\handGesture.cpp(432) : definition of 'i' ignored
+                 ..\..\..\nail_detection20161227\VS2013 Version\HandDetection\handGesture.cpp(423) : definition of 'i' used
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\handGesture.cpp(481): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\handGesture.cpp(482): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\handGesture.cpp(483): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\handGesture.cpp(484): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\handGesture.cpp(485): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\handGesture.cpp(510): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\handGesture.cpp(516): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\handGesture.cpp(519): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\handGesture.cpp(520): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+         main.cpp
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\main.cpp(86): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\main.cpp(88): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\main.cpp(89): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\main.cpp(90): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\main.cpp(264): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>..\..\..\nail_detection20161227\VS2013 Version\HandDetection\main.cpp(296): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+         myImage.cpp
+         roi.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\nail_detection\nail_detection20170214\nailDetection\x64\Release\nailDetection.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:E:\opencv2_4_11\my_build_vs2013_x64\install\x64\vc12\lib opencv_calib3d2411.lib opencv_core2411.lib opencv_features2d2411.lib opencv_flann2411.lib opencv_highgui2411.lib opencv_imgproc2411.lib opencv_ml2411.lib opencv_objdetect2411.lib opencv_photo2411.lib opencv_stitching2411.lib opencv_superres2411.lib opencv_ts2411.lib opencv_video2411.lib opencv_videostab2411.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\nail_detection\nail_detection20170214\nailDetection\x64\Release\nailDetection.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\nail_detection\nail_detection20170214\nailDetection\x64\Release\nailDetection.lib" /MACHINE:X64 x64\Release\handGesture.obj
+         x64\Release\main.obj
+         x64\Release\myImage.obj
+         x64\Release\roi.obj
+         Generating code
+         Finished generating code
+         nailDetection.vcxproj -> E:\nail_detection\nail_detection20170214\nailDetection\x64\Release\nailDetection.exe
+     1>Done Building Project "E:\nail_detection\nail_detection20170214\nailDetection\nailDetection\nailDetection.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.32
